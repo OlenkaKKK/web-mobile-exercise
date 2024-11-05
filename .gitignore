@@ -1,0 +1,6 @@
+# intellij idea files
+*.iml
+.idea/
+
+# report files
+/target
